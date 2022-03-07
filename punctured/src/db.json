@@ -1,0 +1,903 @@
+[
+    {
+      "id": 1,
+      "shop_name": "We Care Auto Repair",
+      "address": "Delhi",
+      "radius": 9,
+      "rating": 1,
+      "payment": true,
+      "discount": 44,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 2,
+      "shop_name": "A+ Auto Care",
+      "address": "Delhi",
+      "radius": 5,
+      "rating": 5,
+      "payment": false,
+      "discount": 40,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 3,
+      "shop_name": "Car Doctor",
+      "address": "Mumbai",
+      "radius": 7,
+      "rating": 2,
+      "payment": false,
+      "discount": 27,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 4,
+      "shop_name": "Shifters Auto Garage",
+      "address": "Bengaluru",
+      "radius": 9,
+      "rating": 1,
+      "payment": true,
+      "discount": 44,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 5,
+      "shop_name": "AutoMed Mechanics",
+      "address": "Chennai",
+      "radius": 5,
+      "rating": 4,
+      "payment": false,
+      "discount": 25,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 6,
+      "shop_name": "King Mechanic",
+      "address": "Jaipur",
+      "radius": 3,
+      "rating": 3,
+      "payment": true,
+      "discount": 29,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 7,
+      "shop_name": "Hank's Garage",
+      "address": "Gurgaon",
+      "radius": 9,
+      "rating": 1,
+      "payment": true,
+      "discount": 15,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 8,
+      "shop_name": "One-Stop Auto Shop",
+      "address": "Delhi",
+      "radius": 3,
+      "rating": 3,
+      "payment": false,
+      "discount": 5,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 9,
+      "shop_name": "AAA Auto Mechanic",
+      "address": "Gurgaon",
+      "radius": 7,
+      "rating": 2,
+      "payment": false,
+      "discount": 27,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 10,
+      "shop_name": "Manual Motor Repair",
+      "address": "Bengaluru",
+      "radius": 7,
+      "rating": 5,
+      "payment": true,
+      "discount": 34,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 11,
+      "shop_name": "J and R Auto Service Center",
+      "address": "Jaipur",
+      "radius": 1,
+      "rating": 3,
+      "payment": false,
+      "discount": 22,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 12,
+      "shop_name": "The Timely Toolbox Auto Repair",
+      "address": "Gurgaon",
+      "radius": 2,
+      "rating": 3,
+      "payment": false,
+      "discount": 17,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 13,
+      "shop_name": "Crankshaft Automotive Specialists",
+      "address": "Pune",
+      "radius": 7,
+      "rating": 3,
+      "payment": false,
+      "discount": 8,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 14,
+      "shop_name": "Paul's Car & Truck Repair Shop",
+      "address": "Kolkata",
+      "radius": 2,
+      "rating": 5,
+      "payment": false,
+      "discount": 21,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 15,
+      "shop_name": "For Wheels Auto Repair",
+      "address": "Gurgaon",
+      "radius": 6,
+      "rating": 4,
+      "payment": false,
+      "discount": 1,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 16,
+      "shop_name": "Smith Automotive",
+      "address": "Chennai",
+      "radius": 6,
+      "rating": 4,
+      "payment": false,
+      "discount": 24,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 17,
+      "shop_name": "Ignition Auto",
+      "address": "Jaipur",
+      "radius": 3,
+      "rating": 4,
+      "payment": true,
+      "discount": 0,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 18,
+      "shop_name": "Inc.",
+      "address": "Chennai",
+      "radius": 4,
+      "rating": 3,
+      "payment": false,
+      "discount": 3,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 19,
+      "shop_name": "Diesel Automotive Center",
+      "address": "Gurgaon",
+      "radius": 2,
+      "rating": 2,
+      "payment": false,
+      "discount": 39,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 20,
+      "shop_name": "4-Wheels Auto Repair",
+      "address": "Pune",
+      "radius": 6,
+      "rating": 4,
+      "payment": true,
+      "discount": 34,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 21,
+      "shop_name": "Wrench King Auto Repair",
+      "address": "Chennai",
+      "radius": 6,
+      "rating": 4,
+      "payment": false,
+      "discount": 19,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 22,
+      "shop_name": "Phelps Brothers Auto Garage",
+      "address": "Delhi",
+      "radius": 1,
+      "rating": 4,
+      "payment": true,
+      "discount": 43,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 23,
+      "shop_name": "Mountain Top Auto Shop",
+      "address": "Mumbai",
+      "radius": 8,
+      "rating": 4,
+      "payment": true,
+      "discount": 48,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 24,
+      "shop_name": "Speedy's Engine Repair",
+      "address": "Pune",
+      "radius": 7,
+      "rating": 4,
+      "payment": false,
+      "discount": 23,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 25,
+      "shop_name": "Acton Garage",
+      "address": "Pune",
+      "radius": 8,
+      "rating": 3,
+      "payment": false,
+      "discount": 16,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 26,
+      "shop_name": "24/7 Auto Repair",
+      "address": "Pune",
+      "radius": 9,
+      "rating": 1,
+      "payment": true,
+      "discount": 27,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 27,
+      "shop_name": "N & L Automobile Repair Co.",
+      "address": "Hyderabad",
+      "radius": 8,
+      "rating": 3,
+      "payment": true,
+      "discount": 44,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 28,
+      "shop_name": "The Car Guys",
+      "address": "Bengaluru",
+      "radius": 9,
+      "rating": 5,
+      "payment": true,
+      "discount": 36,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 29,
+      "shop_name": "Ready-to-Go Auto",
+      "address": "Jaipur",
+      "radius": 3,
+      "rating": 3,
+      "payment": true,
+      "discount": 23,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 30,
+      "shop_name": "Vroom Auto Repair",
+      "address": "Pune",
+      "radius": 5,
+      "rating": 5,
+      "payment": false,
+      "discount": 38,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 31,
+      "shop_name": "Two Guys Auto Repair",
+      "address": "Delhi",
+      "radius": 9,
+      "rating": 2,
+      "payment": true,
+      "discount": 26,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 32,
+      "shop_name": "Screamin' Motors Auto Shop",
+      "address": "Gurgaon",
+      "radius": 8,
+      "rating": 1,
+      "payment": false,
+      "discount": 38,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 33,
+      "shop_name": "Fo-Sho Auto Repair",
+      "address": "Kolkata",
+      "radius": 2,
+      "rating": 3,
+      "payment": false,
+      "discount": 7,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 34,
+      "shop_name": "Quick Start Mechanix",
+      "address": "Pune",
+      "radius": 9,
+      "rating": 5,
+      "payment": false,
+      "discount": 10,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 35,
+      "shop_name": "Screwdriver Auto Shop",
+      "address": "Delhi",
+      "radius": 1,
+      "rating": 5,
+      "payment": true,
+      "discount": 40,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 36,
+      "shop_name": "Your Honest Mechanic",
+      "address": "Bengaluru",
+      "radius": 7,
+      "rating": 4,
+      "payment": false,
+      "discount": 10,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 37,
+      "shop_name": "Intersection Collision Specialists",
+      "address": "Chennai",
+      "radius": 3,
+      "rating": 2,
+      "payment": false,
+      "discount": 25,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 38,
+      "shop_name": "Under the Dash Auto Repair",
+      "address": "Gurgaon",
+      "radius": 3,
+      "rating": 1,
+      "payment": false,
+      "discount": 7,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 39,
+      "shop_name": "The Car Clinic",
+      "address": "Delhi",
+      "radius": 6,
+      "rating": 5,
+      "payment": false,
+      "discount": 49,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 40,
+      "shop_name": "In the Hood Auto Specialists",
+      "address": "Kolkata",
+      "radius": 8,
+      "rating": 5,
+      "payment": false,
+      "discount": 32,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 41,
+      "shop_name": "Timely Auto Repair Shop",
+      "address": "Hyderabad",
+      "radius": 10,
+      "rating": 2,
+      "payment": false,
+      "discount": 3,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 42,
+      "shop_name": "Engines 2 Mufflers Auto",
+      "address": "Pune",
+      "radius": 7,
+      "rating": 5,
+      "payment": true,
+      "discount": 45,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 43,
+      "shop_name": "Emergency Auto Shop",
+      "address": "Pune",
+      "radius": 2,
+      "rating": 3,
+      "payment": false,
+      "discount": 9,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 44,
+      "shop_name": "We Love Autos! Repair Shop",
+      "address": "Jaipur",
+      "radius": 6,
+      "rating": 2,
+      "payment": false,
+      "discount": 15,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 45,
+      "shop_name": "Happy Helpers Auto",
+      "address": "Kolkata",
+      "radius": 9,
+      "rating": 1,
+      "payment": false,
+      "discount": 35,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 46,
+      "shop_name": "Echomotors Vehicle Engineers",
+      "address": "Chennai",
+      "radius": 7,
+      "rating": 1,
+      "payment": true,
+      "discount": 45,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 47,
+      "shop_name": "Frankie's Famous Auto Shop",
+      "address": "Pune",
+      "radius": 10,
+      "rating": 5,
+      "payment": false,
+      "discount": 13,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 48,
+      "shop_name": "Classic Motor Repair",
+      "address": "Gurgaon",
+      "radius": 2,
+      "rating": 4,
+      "payment": false,
+      "discount": 1,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 49,
+      "shop_name": "Allen's Automobile Repair Co.",
+      "address": "Delhi",
+      "radius": 6,
+      "rating": 3,
+      "payment": true,
+      "discount": 35,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 50,
+      "shop_name": "Your Neighborhood Mechanic",
+      "address": "Hyderabad",
+      "radius": 2,
+      "rating": 3,
+      "payment": true,
+      "discount": 41,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 51,
+      "shop_name": "The Auto Man",
+      "address": "Pune",
+      "radius": 10,
+      "rating": 3,
+      "payment": false,
+      "discount": 35,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 52,
+      "shop_name": "Spare Tire Wheels and More",
+      "address": "Jaipur",
+      "radius": 5,
+      "rating": 2,
+      "payment": false,
+      "discount": 8,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 53,
+      "shop_name": "Pit Stop Auto Shop",
+      "address": "Bengaluru",
+      "radius": 3,
+      "rating": 2,
+      "payment": true,
+      "discount": 9,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 54,
+      "shop_name": "Lug Nuts Tire and Lube Service",
+      "address": "Gurgaon",
+      "radius": 4,
+      "rating": 3,
+      "payment": true,
+      "discount": 45,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 55,
+      "shop_name": "Shiftright Transmission Specialists",
+      "address": "Kolkata",
+      "radius": 3,
+      "rating": 4,
+      "payment": true,
+      "discount": 49,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 56,
+      "shop_name": "Element Engine Specialists",
+      "address": "Gurgaon",
+      "radius": 10,
+      "rating": 3,
+      "payment": true,
+      "discount": 25,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 57,
+      "shop_name": "Drag Racers Repair Shop",
+      "address": "Delhi",
+      "radius": 2,
+      "rating": 4,
+      "payment": false,
+      "discount": 37,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 58,
+      "shop_name": "Shift Transmission Specialists",
+      "address": "Mumbai",
+      "radius": 4,
+      "rating": 5,
+      "payment": false,
+      "discount": 37,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 59,
+      "shop_name": "Nuts and",
+      "address": "Delhi",
+      "radius": 3,
+      "rating": 2,
+      "payment": false,
+      "discount": 40,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    },
+    {
+      "id": 60,
+      "shop_name": "Bolts Car Garage",
+      "address": "Delhi",
+      "radius": 9,
+      "rating": 3,
+      "payment": true,
+      "discount": 44,
+      "service": [
+        { "Tire Puncture": 100 },
+        { "Car Wash": 500 },
+        { "Air Conditioning": 1000 },
+        { "Cooling System Repair": 2000 }
+      ]
+    }
+  ]
+  
