@@ -21,7 +21,7 @@ export default ProductItem;
 
 const Wrapper = styled.div`
   width: 400px;
-  height: 100px;
+  height: 120px;
   border: 1px solid black;
   border-radius: 5px;
   margin: auto;
@@ -33,7 +33,7 @@ const Wrapper = styled.div`
 
   .img {
     width: 150px;
-    height: 100px;
+    height: 120px;
     border: 1px solid black;
     border-radius: 5px;
   }
