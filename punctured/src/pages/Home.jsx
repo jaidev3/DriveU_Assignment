@@ -38,7 +38,7 @@ function Home() {
   console.log(data);
   return (
     <Wrapper>
-      <button>Cart</button>
+     <Link to="/cart"><button>Cart</button></Link> 
       <h1>Punctured App</h1>
       <h3>Please select your location:</h3>
       <form action="" onSubmit={handleSubmit}>
