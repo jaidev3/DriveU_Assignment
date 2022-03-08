@@ -10,16 +10,15 @@ function Home() {
     location: "none",
   });
   const [data, setData] = useState([]);
-  ////pagination
+  ////pagination////////////
   const [pageNumber, setPageNumber] = useState(0);
   const usersPerPage = 10;
   const pagesVisited = pageNumber * usersPerPage;
-
   const pageCount = Math.ceil(data.length / usersPerPage);
-
   const changePage = ({ selected }) => {
     setPageNumber(selected);
   };
+  /////////////////////////////
 
   useEffect(() => {
     setData(d);
@@ -38,7 +37,6 @@ function Home() {
   console.log(data);
   return (
     <Wrapper>
-
       <Navbar>
         <h3>Punctured App</h3>
         <Link to="/cart">
@@ -115,8 +113,7 @@ const Wrapper = styled.div`
   flex-direction: column;
   padding: 10px;
   padding-bottom: 50px;
-  background-color:#F4FCD9 ;
-  
+  background-color: #f4fcd9;
 `;
 const List = styled.div`
   display: flex;
@@ -125,14 +122,13 @@ const List = styled.div`
   margin: auto;
   justify-content: space-around;
   row-gap: 5px;
-  column-gap:5px ;
+  column-gap: 5px;
   margin-top: 10px;
 `;
 const Navbar = styled.div`
-display: flex ;
-flex-direction:row ;
-justify-content:space-around ;
-background-color: #C5D8A4;
-align-items:center ;
-
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #c5d8a4;
+  align-items: center;
 `;
